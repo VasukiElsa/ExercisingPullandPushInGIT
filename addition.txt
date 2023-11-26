@@ -1,3 +1,4 @@
 a = 10
 b = 20
-Output : "addition of a and b"
+c = 30
+Output : "addition of a and b and c"
